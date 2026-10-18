@@ -8,7 +8,8 @@ python-dotenv
 alembic
 passlib[bcrypt]
 python-jose[cryptography]
-openpyxlpandas
+openpyxl
+pandas
 numpy
 scikit-learn
 google-genai
