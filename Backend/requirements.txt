@@ -14,3 +14,5 @@ numpy
 scikit-learn
 google-genai
 python-multipart
+psycopg[binary]
+
