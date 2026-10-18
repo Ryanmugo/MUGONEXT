@@ -1,0 +1,30 @@
+﻿# Secrets and environment files
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Python
+**/__pycache__/
+**/*.py[cod]
+**/.venv/
+**/venv/
+**/env/
+
+# Node and build output
+**/node_modules/
+**/dist/
+**/.vite/
+
+# Local uploads and private data
+Backend/uploads/
+**/*.db
+**/*.sqlite
+**/*.sqlite3
+
+# Local archives and temporary files
+*.zip
+*.log
+.DS_Store

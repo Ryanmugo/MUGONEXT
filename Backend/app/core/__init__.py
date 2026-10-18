@@ -1,0 +1,3 @@
+"""
+MUGONEXT core application components.
+"""
