@@ -15,4 +15,4 @@ scikit-learn
 google-genai
 python-multipart
 psycopg[binary]
-
+email-validator
